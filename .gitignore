@@ -1,0 +1,7 @@
+build/
+
+ninja-build/*
+!ninja-build/build.ninja
+!ninja-build/CMakeFiles/
+ninja-build/CMakeFiles/*
+!ninja-build/CMakeFiles/rules.ninja
